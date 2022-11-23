@@ -1,2 +1,4 @@
 .ds_store
-.vscode/launch.json
+.vscode
+_config.yml
+
