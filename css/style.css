@@ -1,6 +1,10 @@
+ul.phu-social{
+    padding: 0px;
+}
+
 ul.phu-social li{
     display: inline;
-    margin-left: 0.3em;
+    margin-left: 10px;
     font-size: 2em;
   }
 
