@@ -3,9 +3,10 @@ ul.phu-social li{
     padding-left: 1em;
   }
 
-ul.phu-list-portfolio li{
+.phu-list-portfolio a{
+    display: block;
+
     margin-top: 1em;
-    list-style: none;
 }
 ul.phu-list-contact li{
     display: inline;
