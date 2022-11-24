@@ -1,4 +1,4 @@
-.phu-social ul li{
+ul.phu-social li{
     display: inline;
     padding-left: 1em;
   }
@@ -6,7 +6,6 @@
 ul.phu-list-portfolio li{
     margin-top: 1em;
     list-style: none;
-    margin-left: 1em;
 
 
 }
@@ -17,5 +16,5 @@ ul.phu-list-portfolio{
 
 ul.phu-list-contact li{
     display: inline;
-    padding-left: 1em;
+    margin: 1em;
 }
