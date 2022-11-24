@@ -1,6 +1,7 @@
 ul.phu-social li{
     display: inline;
-    padding-left: 1em;
+    margin-left: 0.3em;
+    font-size: 2em;
   }
 
 .phu-list-portfolio a{
